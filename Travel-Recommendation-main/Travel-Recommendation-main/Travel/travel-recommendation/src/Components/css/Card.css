@@ -1,0 +1,47 @@
+.layout {
+  text-align: center;
+  padding: 20px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+h1 {
+  margin-bottom: 40px;
+  color: #172554;;
+}
+
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  color: #172554;
+  margin-top: 50px;
+}
+
+.card {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+}
+
+.card:hover {
+  background-color: #b7eefc;  /* Light blue color on hover */
+}
+
+h2 {
+  margin-top: 0;
+}
+
+p {
+  color: #555;
+}
+
+/* Responsive styles for smaller screens */
+@media (max-width: 768px) {
+  .card-container {
+    grid-template-columns: 1fr; /* Stack cards vertically on smaller screens */
+  }
+}

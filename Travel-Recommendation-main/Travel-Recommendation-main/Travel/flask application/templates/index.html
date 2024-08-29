@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Recommendations</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Travel Recommendations</h1>
+        <form method="post" class="form-group">
+            <label for="type">Type:</label>
+            <input type="text" id="type" name="type" class="form-control" required>
+            <br>
+            <label for="lat">Latitude:</label>
+            <input type="text" id="lat" name="lat" class="form-control" required>
+            <br>
+            <label for="lon">Longitude:</label>
+            <input type="text" id="lon" name="lon" class="form-control" required>
+            <br>
+            <label for="rating">Minimum Rating:</label>
+            <input type="text" id="rating" name="rating" class="form-control" required>
+            <br>
+            <input type="submit" value="Get Recommendations" class="btn btn-primary">
+        </form>
+
+        {% if recommendations %}
+        <h2>Top Recommendations:</h2>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Type</th>
+                    <th>Description</th>
+                    <th>Reviews</th>
+                    <th>Distance (km)</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for rec in recommendations %}
+                <tr>
+                    <td>{{ rec.Name }}</td>
+                    <td>{{ rec.Type }}</td>
+                    <td>{{ rec.Description }}</td>
+                    <td>{{ rec.Reviews }}</td>
+                    <td>{{ rec.Distance }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% endif %}
+    </div>
+</body>
+</html>

@@ -1,0 +1,103 @@
+/* Navbar.css */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #62d2ee;
+  color: #111e49;
+  position: sticky;
+  top: 0;
+  padding: 0.5rem 1rem;
+  z-index: 1000;
+  box-shadow: 0 0 15px rgba(118, 217, 230, 0.7);
+  background-image: linear-gradient(to bottom, rgb(92, 222, 240), rgba(81, 227, 247, 0.8));
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+nav:hover {
+  background-color: #72deec;
+  box-shadow: 0 0 20px rgba(116, 224, 243, 0.8);
+}
+
+nav .title {
+  font-size: 2rem;
+  font-weight: bold;
+  text-decoration: none;
+  color: #111e49;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+nav ul li {
+  margin: 0 1.0rem;
+}
+
+nav ul li a {
+  display: block;
+  text-decoration: none;
+  color: #111e49;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  transition: background-color 0.3s ease;
+}
+
+nav ul li a:not(.active):hover {
+  background-color: #52e3f7;
+}
+
+nav .menu {
+  display: none;
+  position: relative;
+  cursor: pointer;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 2rem;
+  height: 1.5rem;
+}
+
+nav .menu span {
+  height: 0.25rem;
+  width: 100%;
+  background-color: black;
+  border-radius: 0.2rem;
+}
+
+@media (max-width: 768px) {
+  nav .menu {
+    display: flex;
+  }
+
+  nav ul {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #63e6f0;
+    padding: 1rem 0;
+    z-index: 999;
+  }
+
+  nav ul.open {
+    display: flex;
+  }
+
+  nav ul li {
+    width: 100%;
+    text-align: center;
+    margin: 0.5rem 0;
+  }
+
+  nav ul li a {
+    width: 100%;
+    padding: 0.75rem 1rem;
+  }
+}

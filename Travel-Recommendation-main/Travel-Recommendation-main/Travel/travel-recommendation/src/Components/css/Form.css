@@ -1,0 +1,103 @@
+/* Centering Styles */
+.center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full viewport height */
+  background-color: #f4f4f4; /* Optional background color for the page */
+  margin: 0;
+  padding: 0;
+}
+
+/* Form Card Styles */
+.form-card {
+  max-width: 600px; /* Increased width of the card */
+  width: 30%; /* Full width of the container */
+  margin: 1rem; /* Margin to ensure proper spacing */
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  transform: scale(0.9); /* Initial scale for animation */
+  opacity: 0; /* Initial opacity for animation */
+  animation: fadeInScale 0.5s ease-out forwards; /* Animation applied here */
+}
+
+/* Animation Keyframes */
+@keyframes fadeInScale {
+  from {
+    transform: scale(0.9);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.form-card h2 {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  text-align: center;
+  color: #333;
+}
+
+.form-card form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-card input {
+  margin-bottom: 1rem;
+  padding: 0.75rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  transition: border-color 0.3s ease; /* Smooth border color transition */
+}
+
+.form-card input:focus {
+  border-color: #007bff; /* Highlight border on focus */
+}
+#login{
+  background-color: #52d8fa;
+ }
+ #register{
+   background-color: #52d8fa;
+ 
+ 
+ }
+
+.form-card button {
+  padding: 0.75rem;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* Smooth background color transition */
+  transform: translateY(0); /* Initial position for animation */
+  animation: buttonAnimation 0.3s ease-out forwards; /* Animation applied here */
+}
+
+.form-card button:hover {
+  background-color: #0056b3;
+}
+
+/* Button Animation Keyframes */
+@keyframes buttonAnimation {
+  from {
+    transform: translateY(5px);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+
+/* Media Query for Mobile Screens */
+@media (max-width: 768px) {
+  .form-card {
+    max-width: 60%; /* Increase width on mobile devices */
+    width: 60%; /* Ensure it doesn't exceed viewport width */
+    margin: 1rem; /* Adjust margin for smaller screens */
+  }
+}

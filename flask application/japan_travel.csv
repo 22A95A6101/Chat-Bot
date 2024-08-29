@@ -1,0 +1,103 @@
+ID,Name,Type,Description,Latitude,Longitude,Address,Opening Hours,Photos,Reviews
+1,Mount Fuji,Mountains,Iconic volcanic mountain,35.3606,138.7274,Shizuoka Prefecture,24-Jul,link_to_photo,4.9
+2,Kyoto Imperial Palace,Temple,Historic palace in Kyoto,35.0274,135.7788,"Kyoto, Japan",9:00 AM - 5:00 PM,link_to_photo,4.7
+3,Shinjuku Gyoen,Garden,Beautiful park in Tokyo,35.6852,139.71,"Tokyo, Japan",9:00 AM - 4:30 PM,link_to_photo,4.8
+4,Osaka Castle,Castle,Famous historical castle in Osaka,34.6873,135.5259,"Osaka, Japan",9:00 AM - 5:00 PM,link_to_photo,4.6
+5,Shibuya Crossing,City Landmark,Busy pedestrian crossing in Tokyo,35.6595,139.7004,"Tokyo, Japan",24-Jul,link_to_photo,4.8
+6,Fushimi Inari Shrine,Temple,Known for its thousands of red torii gates,34.9671,135.7727,"Kyoto, Japan",24-Jul,link_to_photo,4.9
+7,Himeji Castle,Castle,Well-preserved castle in Himeji,34.8396,134.6939,"Himeji, Japan",9:00 AM - 5:00 PM,link_to_photo,4.7
+8,Ueno Park,Garden,Large public park with museums and zoo,35.7148,139.774,"Tokyo, Japan",5:00 AM - 11:00 PM,link_to_photo,4.6
+9,Tokyo Tower,City Landmark,Iconic communications and observation tower,35.6586,139.7454,"Tokyo, Japan",9:00 AM - 11:00 PM,link_to_photo,4.5
+10,Cherry Blossom Festival,Festival,Annual festival celebrating cherry blossoms,35.6895,139.6917,"Tokyo, Japan",Seasonal,link_to_photo,4.9
+11,Nijo Castle,Castle,Historic castle with beautiful gardens,35.0154,135.752,"Kyoto, Japan",9:00 AM - 5:00 PM,link_to_photo,4.7
+12,Akihabara,City Landmark,Electronic town with shops and anime culture,35.6984,139.773,"Tokyo, Japan",10:00 AM - 8:00 PM,link_to_photo,4.6
+13,Hakone Open-Air Museum,Museum,Outdoor museum with sculptures and artworks,35.23,139.0296,"Hakone, Japan",9:00 AM - 5:00 PM,link_to_photo,4.8
+14,Arashiyama Bamboo Grove,Garden,Scenic bamboo forest in Kyoto,35.0094,135.6674,"Kyoto, Japan",24-Jul,link_to_photo,4.8
+15,Meiji Shrine,Temple,Shinto shrine surrounded by a forest,35.6764,139.6993,"Tokyo, Japan",5:00 AM - 6:00 PM,link_to_photo,4.7
+16,Roppongi Hills,City Landmark,"Modern complex with shops, restaurants, and an observation deck",35.6596,139.7314,"Tokyo, Japan",10:00 AM - 8:00 PM,link_to_photo,4.5
+17,Odaiba,City Landmark,Entertainment and shopping district on a man-made island,35.619,139.7758,"Tokyo, Japan",10:00 AM - 10:00 PM,link_to_photo,4.6
+18,The National Art Center,Museum,Unique museum without permanent collection,35.67,139.711,"Tokyo, Japan",10:00 AM - 6:00 PM,link_to_photo,4.7
+19,Kinkaku-ji,Temple,Golden Pavilion in Kyoto,35.0394,135.7292,"Kyoto, Japan",9:00 AM - 5:00 PM,link_to_photo,4.9
+20,Yoyogi Park,Garden,Large urban park in Tokyo,35.6718,139.6961,"Tokyo, Japan",5:00 AM - 8:00 PM,link_to_photo,4.6
+21,Tsukiji Outer Market,City Landmark,Famous seafood market in Tokyo,35.6641,139.7707,"Tokyo, Japan",5:00 AM - 2:00 PM,link_to_photo,4.7
+22,Hamarikyu Gardens,Garden,Historical gardens with a traditional tea house,35.6732,139.7646,"Tokyo, Japan",9:00 AM - 5:00 PM,link_to_photo,4.8
+23,Senso-ji Temple,Temple,Tokyo's oldest temple,35.7148,139.7967,"Tokyo, Japan",6:00 AM - 5:00 PM,link_to_photo,4.8
+24,Ginza,City Landmark,Luxury shopping district in Tokyo,35.6714,139.764,"Tokyo, Japan",10:00 AM - 8:00 PM,link_to_photo,4.6
+25,Toshogu Shrine,Temple,Shrine dedicated to Tokugawa Ieyasu,36.3295,139.4121,"Tochigi, Japan",8:00 AM - 5:00 PM,link_to_photo,4.7
+26,Kawagoe,City Landmark,Historic city known as Little Edo,35.921,139.4912,"Saitama, Japan",9:00 AM - 5:00 PM,link_to_photo,4.6
+27,Nara Park,Park,Famous for its deer and Todai-ji Temple,34.6851,135.8048,"Nara, Japan",24-Jul,link_to_photo,4.8
+28,Hiroshima Peace Memorial Park,Park,Memorial park dedicated to the victims of the atomic bomb,34.3955,132.4553,"Hiroshima, Japan",24-Jul,link_to_photo,4.9
+29,Aso Volcano,Mountains,Active volcano in Kumamoto,32.9151,131.1048,"Kumamoto, Japan",24-Jul,link_to_photo,4.7
+30,Okinawa Churaumi Aquarium,Aquarium,One of the largest aquariums in the world,26.6948,127.8769,"Okinawa, Japan",8:30 AM - 6:30 PM,link_to_photo,4.8
+31,Ghibli Museum,Museum,Museum dedicated to Studio Ghibli's work,35.6907,139.573,"Mitaka, Tokyo, Japan",10:00 AM - 6:00 PM,link_to_photo,4.9
+32,Nagasaki Peace Park,Park,Park commemorating the atomic bombing of Nagasaki,32.7504,129.8777,"Nagasaki, Japan",24-Jul,link_to_photo,4.8
+33,Koyasan,Temple,Sacred mountain with many temples and monasteries,34.2274,135.5918,"Wakayama, Japan",24-Jul,link_to_photo,4.9
+34,Himeji City Museum of Art,Museum,Art museum featuring Japanese and international works,34.8371,134.6854,"Himeji, Japan",10:00 AM - 5:00 PM,link_to_photo,4.7
+35,Kobe Harborland,City Landmark,Shopping and entertainment district with waterfront views,34.6906,135.1955,"Kobe, Japan",10:00 AM - 9:00 PM,link_to_photo,4.6
+36,Asakusa,City Landmark,Historic district with traditional shopping streets and temples,35.7148,139.7967,"Tokyo, Japan",9:00 AM - 5:00 PM,link_to_photo,4.7
+37,Nihonbashi,City Landmark,Historical business district in Tokyo,35.6812,139.769,"Tokyo, Japan",9:00 AM - 6:00 PM,link_to_photo,4.6
+38,Sapporo Snow Festival,Festival,Annual winter festival with ice and snow sculptures,43.0687,141.3506,"Sapporo, Japan",Seasonal,link_to_photo,4.8
+39,Yokohama Chinatown,City Landmark,One of the largest Chinatowns in the world,35.4443,139.638,"Yokohama, Japan",10:00 AM - 9:00 PM,link_to_photo,4.7
+40,Shikoku Pilgrimage,Temple,Famous pilgrimage route with 88 temples,34.5,134.7833,"Shikoku, Japan",24-Jul,link_to_photo,4.9
+41,Tottori Sand Dunes,Natural Landmark,Expansive sand dunes along the coast,35.503,134.2254,"Tottori, Japan",24-Jul,link_to_photo,4.6
+42,Nagoya Castle,Castle,Historic castle known for its golden shachihoko,35.1814,136.9066,"Nagoya, Japan",9:00 AM - 5:00 PM,link_to_photo,4.7
+43,Lake Kawaguchi,Natural Landmark,Beautiful lake with views of Mount Fuji,35.5053,138.7662,"Fujikawaguchiko, Japan",24-Jul,link_to_photo,4.8
+44,Tama Zoo,Zoo,Large zoo with diverse animal exhibits,35.634,139.4623,"Tokyo, Japan",9:30 AM - 4:30 PM,link_to_photo,4.7
+45,Odaiba Seaside Park,Park,Urban park with beaches and waterfront views,35.6235,139.7766,"Tokyo, Japan",24-Jul,link_to_photo,4.6
+46,Hiroshima Castle,Castle,Castle reconstructed after World War II,34.3955,132.4553,"Hiroshima, Japan",9:00 AM - 6:00 PM,link_to_photo,4.7
+47,Sumida Aquarium,Aquarium,Aquarium featuring marine life from Tokyo Bay,35.7102,139.7974,"Tokyo, Japan",9:00 AM - 9:00 PM,link_to_photo,4.6
+48,Miyajima Island,Island,Island known for Itsukushima Shrine and floating torii gate,34.2951,132.3192,"Hiroshima, Japan",24-Jul,link_to_photo,4.9
+49,Rikugien Garden,Garden,Traditional Japanese landscape garden in Tokyo,35.7392,139.7606,"Tokyo, Japan",9:00 AM - 5:00 PM,link_to_photo,4.8
+50,Tokyo National Museum,Museum,Museum with extensive collection of Japanese art and artifacts,35.7188,139.776,"Tokyo, Japan",9:30 AM - 5:00 PM,link_to_photo,4.7
+51,Kawagoe Castle,City Landmark,Historic castle in Kawagoe,35.9206,139.4917,"Kawagoe, Japan",9:00 AM - 5:00 PM,link_to_photo,4.6
+52,Osaka Castle,City Landmark,Iconic castle with beautiful grounds,34.6873,135.5262,"Osaka, Japan",9:00 AM - 5:00 PM,link_to_photo,4.7
+53,Nara National Museum,Museum,Museum showcasing Japanese art and cultural artifacts,34.6831,135.8353,"Nara, Japan",9:30 AM - 5:00 PM,link_to_photo,4.6
+54,Kanazawa Castle,City Landmark,Historic castle in Kanazawa,36.5613,136.6564,"Kanazawa, Japan",7:00 AM - 6:00 PM,link_to_photo,4.8
+55,Shirakawa-go,City Landmark,Historic village known for traditional gassho-zukuri farmhouses,36.1814,136.9047,"Gifu, Japan",24-Jul,link_to_photo,4.9
+56,Koya-san,City Landmark,Sacred mountain with historic temples and monasteries,34.2224,135.5864,"Wakayama, Japan",24-Jul,link_to_photo,4.8
+57,Tottori Sand Dunes,City Landmark,Expansive sand dunes offering unique landscapes,35.4904,134.2304,"Tottori, Japan",24-Jul,link_to_photo,4.7
+58,Hakone Open-Air Museum,Museum,Museum featuring outdoor sculptures and artworks,35.2272,139.0533,"Hakone, Japan",9:00 AM - 5:00 PM,link_to_photo,4.8
+59,Fushimi Inari Taisha,Temple,Famous for its thousands of red torii gates,34.9671,135.7727,"Kyoto, Japan",24-Jul,link_to_photo,4.9
+60,Yokohama Landmark Tower,City Landmark,Tallest building in Yokohama with observation deck,35.4556,139.6381,"Yokohama, Japan",10:00 AM - 8:00 PM,link_to_photo,4.6
+61,Kawasaki Daishi,Temple,Popular temple with a vibrant atmosphere,35.5302,139.717,"Kawasaki, Japan",6:00 AM - 5:00 PM,link_to_photo,4.7
+62,Miyajima,City Landmark,Island known for Itsukushima Shrine and floating torii gate,34.295,132.319,"Hiroshima, Japan",24-Jul,link_to_photo,4.9
+63,Kinkaku-ji (Golden Pavilion),Temple,Famous for its golden exterior,35.0394,135.7292,"Kyoto, Japan",9:00 AM - 5:00 PM,link_to_photo,4.8
+64,Ghibli Museum,Museum,Museum dedicated to Studio Ghibli's works,35.709,139.5917,"Mitaka, Tokyo, Japan",10:00 AM - 6:00 PM,link_to_photo,4.9
+65,Sumida Aquarium,Museum,Aquarium featuring marine life from Tokyo Bay,35.7107,139.8089,"Tokyo, Japan",9:00 AM - 9:00 PM,link_to_photo,4.7
+66,Nihonmatsu Castle,City Landmark,Historic castle with scenic views,37.7005,140.487,"Nihonmatsu, Japan",9:00 AM - 5:00 PM,link_to_photo,4.6
+67,Okinawa World,City Landmark,Theme park showcasing Okinawan culture,26.6014,127.8186,"Okinawa, Japan",9:00 AM - 5:00 PM,link_to_photo,4.6
+68,Takayama Old Town,City Landmark,Preserved historic district with traditional architecture,36.1441,137.252,"Takayama, Japan",24-Jul,link_to_photo,4.7
+69,Roppongi Hills,City Landmark,"Modern complex with shopping, dining, and art galleries",35.6604,139.7312,"Tokyo, Japan",10:00 AM - 11:00 PM,link_to_photo,4.6
+70,Himeji Castle,City Landmark,Historic castle and UNESCO World Heritage Site,34.8356,134.6953,"Himeji, Japan",9:00 AM - 5:00 PM,link_to_photo,4.8
+71,Shin-Yokohama Ramen Museum,Museum,Museum dedicated to ramen with various regional styles,35.5072,139.6219,"Yokohama, Japan",11:00 AM - 9:00 PM,link_to_photo,4.7
+72,Inuyama Castle,City Landmark,One of Japan's oldest castles,35.3972,137.0325,"Inuyama, Japan",9:00 AM - 4:30 PM,link_to_photo,4.6
+73,Abeno Harukas,City Landmark,Tallest skyscraper in Japan with observation deck,34.6474,135.5022,"Osaka, Japan",10:00 AM - 10:00 PM,link_to_photo,4.7
+74,Nagasaki Peace Park,City Landmark,Park commemorating the atomic bombing of Nagasaki,32.7823,129.8654,"Nagasaki, Japan",24-Jul,link_to_photo,4.6
+75,Kobe Harborland,City Landmark,Shopping and entertainment district by the harbor,34.6883,135.1926,"Kobe, Japan",10:00 AM - 10:00 PM,link_to_photo,4.7
+76,Tokyo Skytree,City Landmark,Tallest structure in Japan with observation decks,35.7101,139.8107,"Tokyo, Japan",8:00 AM - 10:00 PM,link_to_photo,4.8
+77,Odaiba,City Landmark,Futuristic entertainment and shopping district,35.6295,139.779,"Tokyo, Japan",24-Jul,link_to_photo,4.7
+78,Ueno Zoo,Museum,Japan's oldest zoo with a variety of animals,35.714,139.774,"Tokyo, Japan",9:30 AM - 5:00 PM,link_to_photo,4.6
+79,Okinawa Churaumi Aquarium,Museum,Large aquarium with marine life from Okinawa,26.6784,127.8773,"Okinawa, Japan",8:30 AM - 6:30 PM,link_to_photo,4.8
+80,Hiroshima Peace Memorial Museum,Museum,Museum dedicated to the atomic bombing of Hiroshima,34.3955,132.4553,"Hiroshima, Japan",8:30 AM - 6:00 PM,link_to_photo,4.9
+81,Kinkaku-ji Temple,Temple,Famous for its golden exterior and beautiful garden,35.0394,135.7292,"Kyoto, Japan",9:00 AM - 5:00 PM,link_to_photo,4.8
+82,Asakusa Temple,Temple,Historical temple with a bustling street market,35.7148,139.7967,"Tokyo, Japan",6:00 AM - 5:00 PM,link_to_photo,4.7
+83,Miyajima Island,City Landmark,Island known for Itsukushima Shrine and floating torii gate,34.295,132.319,"Hiroshima, Japan",24-Jul,link_to_photo,4.9
+84,Nagoya Castle,City Landmark,Historic castle in Nagoya,35.1814,136.9066,"Nagoya, Japan",9:00 AM - 4:30 PM,link_to_photo,4.7
+85,Himeji Castle,City Landmark,Historic castle and UNESCO World Heritage Site,34.8356,134.6953,"Himeji, Japan",9:00 AM - 5:00 PM,link_to_photo,4.8
+86,Ghibli Museum,Museum,Museum dedicated to Studio Ghibli's works,35.709,139.5917,"Mitaka, Tokyo, Japan",10:00 AM - 6:00 PM,link_to_photo,4.9
+87,Nagasaki Atomic Bomb Museum,Museum,Museum documenting the events of the atomic bombing of Nagasaki,32.7823,129.8654,"Nagasaki, Japan",8:30 AM - 5:30 PM,link_to_photo,4.6
+88,Kobe Port Tower,City Landmark,Tower offering panoramic views of Kobe and the harbor,34.69,135.1954,"Kobe, Japan",9:00 AM - 9:00 PM,link_to_photo,4.7
+89,Sapporo Clock Tower,City Landmark,Historic clock tower and symbol of Sapporo,43.0621,141.3544,"Sapporo, Japan",9:00 AM - 5:00 PM,link_to_photo,4.6
+90,Shibuya 109,Shopping,Popular fashion shopping mall in Shibuya,35.6595,139.7004,"Tokyo, Japan",10:00 AM - 9:00 PM,link_to_photo,4.6
+91,Kawagoe Hikawa Shrine,Shrine,Historic shrine with a long history,35.9206,139.4917,"Kawagoe, Japan",6:00 AM - 6:00 PM,link_to_photo,4.7
+92,Tamagawa Onsen,City Landmark,Hot springs and bathhouse,35.6022,139.6096,"Tokyo, Japan",10:00 AM - 9:00 PM,link_to_photo,4.6
+93,Ishikawa Prefectural Museum of Art,Museum,Museum showcasing local and international art,36.5616,136.65,"Kanazawa, Japan",10:00 AM - 6:00 PM,link_to_photo,4.7
+94,Kyoto International Manga Museum,Museum,Museum dedicated to manga with a large collection,35.0186,135.7584,"Kyoto, Japan",10:00 AM - 6:00 PM,link_to_photo,4.8
+95,Sumida River Cruise,Tour,Scenic boat cruise along the Sumida River,35.7116,139.7981,"Tokyo, Japan",9:00 AM - 5:00 PM,link_to_photo,4.7
+96,Fujinomiya Shrine,Shrine,Shrine dedicated to the kami of Mount Fuji,35.3392,138.6397,"Fujinomiya, Japan",6:00 AM - 6:00 PM,link_to_photo,4.6
+97,Inokashira Park,Park,Park with a large pond and beautiful natural scenery,35.6935,139.5895,"Tokyo, Japan",24-Jul,link_to_photo,4.7
+98,Rikugien Garden,Garden,Traditional Japanese garden with seasonal beauty,35.7315,139.7604,"Tokyo, Japan",9:00 AM - 5:00 PM,link_to_photo,4.8
+99,Hamarikyu Gardens,Garden,Historic garden with a traditional tea house,35.6652,139.7594,"Tokyo, Japan",9:00 AM - 5:00 PM,link_to_photo,4.7
+100,Toshimaen Niwa no Yu,Spa,Hot springs and spa experience,35.7373,139.6718,"Tokyo, Japan",10:00 AM - 10:00 PM,link_to_photo,4.6
+101,Tokyo Tower,City Landmark,Iconic tower with observation decks,35.6586,139.7454,"Tokyo, Japan",9:00 AM - 11:00 PM,link_to_photo,4.7
+102,Shinjuku Gyoen National Garden,Garden,Spacious park with beautiful landscapes,35.6852,139.71,"Tokyo, Japan",9:00 AM - 4:30 PM,link_to_photo,4.8
